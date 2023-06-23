@@ -1,5 +1,5 @@
 import sys
-from PyQt5 import QtGui,QtWidgets
+from PyQt5 import QtGui, QtWidgets
 from hangman_logic import Hangman
 from hangman_GUI import Ui_MainWindow
 
@@ -14,7 +14,7 @@ class Controller():
         
         if letter == 'new_game':
             self.hangman_instance.new_game()
-            self.gui.end_game_message.setText("Pressing a letter to start guessing!")
+            self.gui.end_game_message.setText("Press a letter to guess!")
             self.gui.current_word.setText(self.hangman_instance.indicator)
             self.gui.hangman_pic.setPixmap(QtGui.QPixmap("h{}.png".format(self.hangman_instance.guess_times+1)))
             self.gui.show_result.setEnabled(True)
