@@ -7,6 +7,12 @@
 <br/>
 <br/>
 
-## Instructions
+## Description
+Hangman is a simple word puzzle game where you guess letters one at a time to find the target word.
+You have a maximum of 6 incorrect guesses (correct guess does not count towards "lives").
+
+## Gameplay
+A virtual keyboard is presented for you. Pressed letters will be automatically disabled, so you don't have to mind them for the rest of the game
+
 
 
