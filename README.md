@@ -21,8 +21,8 @@ Two additional buttons ***New game*** and ***Show Result*** are also available.
 * hangman_logic.py: word processing logic of the game.
   
 ## References:
- *The hangman pictures are taken from [this link](https://github.com/en3rypt/HANGMAN-GAME).
- *The English words are randomly generated from [this link](https://github.com/dwyl/english-words).
+ * The hangman pictures are taken from [this link](https://github.com/en3rypt/HANGMAN-GAME).
+ * The English words are randomly generated from [this link](https://github.com/dwyl/english-words).
 
 
 
