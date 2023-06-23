@@ -16,9 +16,12 @@ A virtual keyboard is presented for you. Pressed letters will be automatically d
 Two additional buttons ***New game*** and ***Show Result*** are also available.
 
 ## Files
-hangman_controller.py: the game is run within this file
-hangman_gui: GUI of the game including the virtual keyboard.
-hangman_logic:
+* hangman_controller.py: the game is run within this file.
+* hangman_gui.py: GUI of the game including the virtual keyboard.
+* hangman_logic.py: word processing logic of the game.
+  
+## References:
+ The hangman pictures are taken from 
 
 
 
