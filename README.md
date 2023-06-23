@@ -13,7 +13,7 @@ You have a maximum of 6 incorrect guesses (correct guess does not count towards 
 
 ## Gameplay
 A virtual keyboard is presented for you. Pressed letters will be automatically disabled, so you don't have to mind them for the rest of the game.\
-Two additional buttons ***New game*** and ***Show Result*** are also available.
+Two additional buttons ***New game*** and ***Show Result*** are also available to start a new game or to show the target word, respectively.
 
 ## Files
 * hangman_controller.py: the game is run within this file.
